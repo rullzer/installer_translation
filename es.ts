@@ -7,25 +7,25 @@
         <location filename="../../libs/installer/proxycredentialsdialog.ui"/>
         <location filename="../../libs/installer/ui_proxycredentialsdialog.h" line="+93"/>
         <source>Dialog</source>
-        <translation>Dialogo</translation>
+        <translation>Diálogo</translation>
     </message>
     <message>
         <location/>
         <location filename="../../libs/installer/ui_proxycredentialsdialog.h" line="+1"/>
         <source>The proxy %1 requires a username and password.</source>
-        <translation>El Proxy %1 requiere de un nombre de usuario y contraseña.</translation>
+        <translation>El Proxy %1 requiere de un usuario y contraseña.</translation>
     </message>
     <message>
         <location/>
         <location filename="../../libs/installer/ui_proxycredentialsdialog.h" line="+1"/>
         <source>Username:</source>
-        <translation>Nombre de usuario:</translation>
+        <translation>Usuario:</translation>
     </message>
     <message>
         <location/>
         <location filename="../../libs/installer/ui_proxycredentialsdialog.h" line="+1"/>
         <source>Username</source>
-        <translation>Nombre de usuario</translation>
+        <translation>Usuario</translation>
     </message>
     <message>
         <location/>
@@ -57,13 +57,13 @@
         <location/>
         <location filename="../../libs/installer/ui_serverauthenticationdialog.h" line="+1"/>
         <source>You need to supply a username and password to access this site.</source>
-        <translation>Usted necesita proporcionar un nombre de usuario y contraseña para accesar este sitio.</translation>
+        <translation>Necesitas proporcionar un usuario y contraseña para acceder a este sitio.</translation>
     </message>
     <message>
         <location/>
         <location filename="../../libs/installer/ui_serverauthenticationdialog.h" line="+1"/>
         <source>Username:</source>
-        <translation>Nombre de usuario:</translation>
+        <translation>Usuario:</translation>
     </message>
     <message>
         <location/>
@@ -90,13 +90,13 @@
         <location/>
         <location filename="../../libs/installer/ui_authenticationdialog.h" line="+1"/>
         <source>You need to supply a Username and Password to access this site.</source>
-        <translation>Usted necesita proporcionar un Nombre de usuario y Contraseña para acceder a este sitio.</translation>
+        <translation>Necesitas proporcionar un Usuario y Contraseña para acceder a este sitio.</translation>
     </message>
     <message>
         <location/>
         <location filename="../../libs/installer/ui_authenticationdialog.h" line="+1"/>
         <source>Username:</source>
-        <translation>Nombre de usuario:</translation>
+        <translation>Usuario:</translation>
     </message>
     <message>
         <location/>
@@ -135,7 +135,7 @@
         <location/>
         <location filename="../ui_settingsdialog.h" line="+1"/>
         <source>System proxy settings</source>
-        <translation>Configuraciones de sistema de Proxy</translation>
+        <translation>Configuraciones de sistema del Proxy</translation>
     </message>
     <message>
         <location/>
@@ -172,7 +172,7 @@
         <location/>
         <location filename="../ui_settingsdialog.h" line="-6"/>
         <source>Add Username and Password for authentication if needed.</source>
-        <translation>Ingrese un Nombre de usuario y Contraseña para autenticación en caso de ser necesario.</translation>
+        <translation>Ingresa un Usuario y Contraseña para autenticación en caso de ser necesario.</translation>
     </message>
     <message>
         <location/>
@@ -208,17 +208,17 @@
     <message>
         <location filename="../settingsdialog.cpp" line="-223"/>
         <source>Check this to use repository during fetch.</source>
-        <translation>Seleccione esta opcion para usrar el repositorio durante el fetch.</translation>
+        <translation>Selecciona esta opción para usar el repositorio durante el fetch.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Add the username to authenticate on the server.</source>
-        <translation>Ingrese el Nombre de usuario para autenticarse en el servidor.</translation>
+        <translation>Ingresa el Usuario para autenticarte en el servidor.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Add the password to authenticate on the server.</source>
-        <translation>Ingrese la Contraseña para autenticarse en el servidor.</translation>
+        <translation>Ingresa la Contraseña para autenticarte en el servidor.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -233,7 +233,7 @@
     <message>
         <location line="+1"/>
         <source>Do you want to disable the tested repository?</source>
-        <translation>¿Desea deshabilitar el repositorio probado?</translation>
+        <translation>¿Deseas deshabilitar el repositorio probado?</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -248,7 +248,7 @@
     <message>
         <location line="+0"/>
         <source>Username</source>
-        <translation>Nombre de usuario</translation>
+        <translation>Usuario</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -288,12 +288,12 @@
         <location line="-4"/>
         <location line="+5"/>
         <source>Enter your password to authorize for sudo:</source>
-        <translation>Ingrese su contraseña para autorizar por sudo:</translation>
+        <translation>Ingresa tu contraseña para autorizar por sudo:</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Error acquiring admin rights</source>
-        <translation>Se presentó un error al adquirir privilegios de adminsitrador</translation>
+        <translation>Se presentó un error al adquirir los privilegios de adminsitrador</translation>
     </message>
 </context>
 <context>
@@ -301,7 +301,7 @@
     <message>
         <location filename="../../libs/installer/binarycontent.cpp" line="+97"/>
         <source>No marker found, stopped after %1.</source>
-        <translation>No se encontró el marcador, se detuvo despues de %1.</translation>
+        <translation>No se encontró el marcador, se detuvo después de %1.</translation>
     </message>
     <message>
         <location filename="../../libs/installer/fileio.cpp" line="+104"/>
@@ -317,17 +317,17 @@
     <message>
         <location line="+13"/>
         <source>Read failed after %1 bytes: %2</source>
-        <translation>La lectura falló despues de %1 bytes: %2</translation>
+        <translation>La lectura falló después de %1 bytes: %2</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Copy failed. Error: %1</source>
-        <translation>La copia fallo. Error%1</translation>
+        <translation>La copia falló. Error%1</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Write failed after %1 bytes: %2</source>
-        <translation>La escritura fallo despues de %1 bytes: %2</translation>
+        <translation>La escritura fallé después de %1 bytes: %2</translation>
     </message>
     <message>
         <location filename="../../libs/installer/fileutils.cpp" line="+132"/>
@@ -429,7 +429,7 @@
     <message>
         <location line="+29"/>
         <source>Property %1 for item %2 not of type VT_FILETIME but %3</source>
-        <translation>La propiedad %1 para elelemento %2 no es del tipo VT_FILETIME sino %3</translation>
+        <translation>La propiedad %1 para elemento %2 no es del tipo VT_FILETIME sino %3</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -454,7 +454,7 @@
     <message>
         <location filename="../../libs/installer/utils.cpp" line="+404"/>
         <source>The specified module could not be found.</source>
-        <translation>No fue posuble encontrar el módulo especificado.</translation>
+        <translation>No fue posible encontrar el módulo especificado.</translation>
     </message>
 </context>
 <context>
@@ -485,7 +485,7 @@
     <message>
         <location line="+18"/>
         <source>Could not seek to %1 to read the resource collection block.</source>
-        <translation>No fue posible buscar en %1 para leer el bloque de la coleccion de los recursos.</translation>
+        <translation>No fue posible buscar en %1 para leer el bloque de la colección de los recursos.</translation>
     </message>
     <message>
         <location line="+38"/>
@@ -508,7 +508,7 @@
     <message>
         <location line="+5"/>
         <source>Write failed after %1 bytes: %2</source>
-        <translation>La escritura falló despues de %1 bytes: %2</translation>
+        <translation>La escritura falló después de %1 bytes: %2</translation>
     </message>
 </context>
 <context>
@@ -539,7 +539,7 @@
     <message>
         <location line="+45"/>
         <source>Could not open the requested license file &apos;%1&apos;. Error: %2</source>
-        <translation>No fue posible abrir el archivo de licenciaI solicitado &apos;%1&apos;. Error : %2</translation>
+        <translation>No fue posible abrir el archivo de licencia solicitado &apos;%1&apos;. Error : %2</translation>
     </message>
     <message>
         <location line="+364"/>
@@ -549,7 +549,7 @@
     <message>
         <location line="+0"/>
         <source>Error: Operation %1 does not exist</source>
-        <translation>Error: La operacion %1 no existe</translation>
+        <translation>Error: La operación %1 no existe</translation>
     </message>
     <message>
         <location line="+237"/>
@@ -635,7 +635,7 @@
     <message>
         <location line="+7"/>
         <source>Can not save the output of %1 to an empty installer key value.</source>
-        <translation>No es posible guardar la salida de %1 a un valor de llave del instalador vacío.</translation>
+        <translation>No es posible guardar la salida de %1 hacia un valor de llave vacío del instalador.</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -645,7 +645,7 @@
     <message>
         <location line="+21"/>
         <source>Running &apos;%1&apos; resulted in a crash.</source>
-        <translation>Correr &apos;%1&apos; generó una falla en la aplicación. </translation>
+        <translation>Al correr &apos;%1&apos; se generó una falla en la aplicación. </translation>
     </message>
 </context>
 <context>
@@ -663,12 +663,12 @@
     <message>
         <location line="+0"/>
         <source> (&lt;source&gt; &lt;target&gt; [forceOverwrite])</source>
-        <translation> (&lt;fuente&gt; &lt;destino&gt; [forzarSobreescritura])</translation>
+        <translation> (&lt;fuente&gt; &lt;destino&gt; [forceOverwrite])</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Invalid argument in %0: Third argument needs to be forceOverwrite, if specified</source>
-        <translation>Argumentos inválidos en %0: El tercer argumento necesita ser fozarSobreescritura, si está especificado</translation>
+        <translation>Argumentos inválidos en %0: El tercer argumento necesita ser forceOverwrite, si está especificado</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -926,7 +926,7 @@ Error while loading %2</source>
     <message>
         <location line="+3"/>
         <source>Scheme not supported: %1 (%2)</source>
-        <translation>El esquema no está soportad: %1 (%2)</translation>
+        <translation>El esquema no está soportado: %1 (%2)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1030,7 +1030,7 @@ Error while loading %2</source>
     <message>
         <location line="+16"/>
         <source>Execution failed(Crash): &quot;%1&quot;</source>
-        <translation>La ejecución falló (parada de la aplicacion): &quot;%1&quot;</translation>
+        <translation>La ejecución falló (parada de la aplicación): &quot;%1&quot;</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1048,12 +1048,12 @@ Error while loading %2</source>
     <message>
         <location line="+12"/>
         <source>Could not write to registry path %1</source>
-        <translation>Non fue posuble escribir a la ruta del registro %1</translation>
+        <translation>No fue posible escribir a la ruta del registro %1</translation>
     </message>
     <message>
         <location filename="../../libs/kdtools/kdupdaterupdateoperation.cpp" line="+300"/>
         <source>Renaming %1 into %2 failed with %3.</source>
-        <translation>Se presentó una falla %3 al renombrar %1  como %2 .</translation>
+        <translation>Se presentó una falla %3 al renombrar %1 como %2.</translation>
     </message>
 </context>
 <context>
@@ -1061,7 +1061,7 @@ Error while loading %2</source>
     <message>
         <location filename="../../libs/installer/environmentvariablesoperation.cpp" line="+32"/>
         <source>Invalid arguments in %0: %1 arguments given, %2 expected%3.</source>
-        <translation>Argumentos inválidos en %0 %1 argumentos dados, %2 esperaba %3. </translation>
+        <translation>Argumentos inválidos en %0: %1 argumentos dados, %2 esperados %3. </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1074,7 +1074,7 @@ Error while loading %2</source>
     <message>
         <location filename="../../libs/installer/extractarchiveoperation.cpp" line="+54"/>
         <source>Invalid arguments in %0: %1 arguments given, %2 expected%3.</source>
-        <translation>Argumentos inválidos en %0 %1 argumentos dados, %2 esperaba %3. </translation>
+        <translation>Argumentos inválidos en %0: %1 argumentos dados, %2 esperados %3. </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1087,7 +1087,7 @@ Error while loading %2</source>
     <message>
         <location filename="../../libs/installer/extractarchiveoperation_p.h" line="+181"/>
         <source>Could not open %1 for reading: %2.</source>
-        <translation>No fue posible abrir %1 para leer: %2.</translation>
+        <translation>No fue posible abrir %1 para lectura: %2.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -1105,7 +1105,7 @@ Error while loading %2</source>
     <message>
         <location filename="../../libs/installer/fakestopprocessforupdateoperation.cpp" line="+55"/>
         <source>Number of arguments does not match: one is required</source>
-        <translation>El numero de argumentos no corresponde: falta uno</translation>
+        <translation>El número de argumentos no corresponde: se requiere de uno</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1120,7 +1120,7 @@ Error while loading %2</source>
     <message>
         <location line="+4"/>
         <source>These processes should be stopped before continuing: %1</source>
-        <translation>Estos procesos deberían detenerse antes de continuar: %1</translation>
+        <translation>Los siguientes procesos deberían detenerse antes de continuar: %1</translation>
     </message>
 </context>
 <context>
@@ -1151,17 +1151,17 @@ Error while loading %2</source>
     <message>
         <location filename="../../libs/installer/installercalculator.cpp" line="+70"/>
         <source>Components added as automatic dependencies:</source>
-        <translation>Los componentes se añadieron com dependencias automáticas:</translation>
+        <translation>Componentes que se añadieron como dependencias automáticas:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Components added as dependency for &apos;%1&apos;:</source>
-        <translation>Los componentes se añadieron como dependencia para &apos;%1&apos;:</translation>
+        <translation>Componentes que se añadieron como dependencia para &apos;%1&apos;:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Components that have resolved dependencies:</source>
-        <translation>Los componentes que tienen dependencias resueltas:</translation>
+        <translation>Componentes que tienen dependencias resueltas:</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,7 +1253,7 @@ Error while loading %2</source>
     <message>
         <location line="+4"/>
         <source>Could not retrieve default format</source>
-        <translation>N o fue posible extraer el formato predeterminado</translation>
+        <translation>No fue posible extraer el formato predeterminado</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1272,7 +1272,7 @@ Error while loading %2</source>
         <location line="+65"/>
         <location line="+722"/>
         <source>Could not retrieve number of items in archive</source>
-        <translation>No se pudo extraer el numero de elementos en el archivo</translation>
+        <translation>No se pudo extraer el número de elementos archivados</translation>
     </message>
     <message>
         <location line="-715"/>
@@ -1318,7 +1318,7 @@ Error while loading %2</source>
     <message>
         <location line="-194"/>
         <source>Could not convert path: %1.</source>
-        <translation>No fue posible convertir la ruta %1.</translation>
+        <translation>No fue posible convertir la ruta: %1.</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -1346,17 +1346,17 @@ Error while loading %2</source>
     <message>
         <location line="-729"/>
         <source>Could not list archive: QIODevice already destroyed.</source>
-        <translation>No fue posuble enlistar el archivo el dispositivo QIODevice ya fue destruido.</translation>
+        <translation>No fue posible enlistar el archivo: el dispositivo QIODevice ya fue destruido.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Unknown exception caught (%1)</source>
-        <translation>Excepcion desconocida atrapada (%1)</translation>
+        <translation>Excepción desconocida atrapada (%1)</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Failed</source>
-        <translation>Fallido</translation>
+        <translation>Falló</translation>
     </message>
 </context>
 <context>
@@ -1380,7 +1380,7 @@ Error while loading %2</source>
     <message>
         <location line="+55"/>
         <source>Could not create symlink at &apos;%1&apos;. Another one is already existing.</source>
-        <translation>No fue posible crear el symlink en &apos;%1&apos;.Ya existe otra.</translation>
+        <translation>No fue posible crear el symlink en &apos;%1&apos;.Ya existe otro.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1413,7 +1413,7 @@ Error while loading %2</source>
     <message>
         <location line="+0"/>
         <source>Failed</source>
-        <translation>Fallido</translation>
+        <translation>Falló</translation>
     </message>
 </context>
 <context>
@@ -1426,7 +1426,7 @@ Error while loading %2</source>
     <message>
         <location line="+7"/>
         <source>Needed installer object in %1 operation is empty.</source>
-        <translation>Un objeto del instalador en la operación %1 está vacío.</translation>
+        <translation>Un objeto requerido del instalador en la operación %1 está vacío.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1472,7 +1472,7 @@ Error while loading %2</source>
     <message>
         <location line="+4"/>
         <source>Preparing meta information download...</source>
-        <translation>Perparando la meta informacion de la descarga...</translation>
+        <translation>Perparando la meta información de la descarga...</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -1493,7 +1493,7 @@ Error while loading %2</source>
         <location line="+11"/>
         <location line="+82"/>
         <source>Unknown exception during download.</source>
-        <translation>Excepcion desconocida durante la descarga.</translation>
+        <translation>Excepción desconocida durante la descarga.</translation>
     </message>
     <message>
         <location line="-71"/>
@@ -1588,7 +1588,7 @@ Error while loading %2</source>
     <message>
         <location line="+2"/>
         <source> - unknown time remaining.</source>
-        <translation> - tiempo restante no conocido.</translation>
+        <translation> - tiempo restante desconocido.</translation>
     </message>
 </context>
 <context>
@@ -1705,7 +1705,7 @@ Descargando paquetes...</translation>
     <message>
         <location line="+1"/>
         <source>Could not write installer configuration to %1: %2</source>
-        <translation>No fue posuble escribir la configuración del instalador a %1: %2</translation>
+        <translation>No fue posible escribir la configuración del instalador a %1: %2</translation>
     </message>
     <message>
         <location line="+116"/>
@@ -1717,7 +1717,7 @@ Descargando paquetes...</translation>
         <source>These processes should be stopped to continue:
 
 %1</source>
-        <translation>Estos procesos deberían detenerse para podder continuar: %1</translation>
+        <translation>Estos procesos deben detenerse para poder continuar: %1</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -1931,17 +1931,17 @@ Installing component %1</source>
     <message>
         <location line="+2"/>
         <source>Do you want to quit the installer application?</source>
-        <translation>¿Desea abandorar la aplicación de instalación?</translation>
+        <translation>¿Desea abandonar la aplicación de instalación?</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Do you want to quit the uninstaller application?</source>
-        <translation>¿Desea abandorar la aplicación de desinstalación?</translation>
+        <translation>¿Desea abandonar la aplicación de desinstalación?</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Do you want to quit the maintenance application?</source>
-        <translation>¿Desea abandorar la aplicación de mantenimiento?</translation>
+        <translation>¿Desea abandonar la aplicación de mantenimiento?</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2040,7 +2040,7 @@ Please copy the installer to a local drive</source>
     <message>
         <location line="+80"/>
         <source>Please read the following license agreement. You must accept the terms contained in this agreement before continuing with the installation.</source>
-        <translation>Favor de leer el acuerdo de licenciamiento. Debe aceptar los términos contendios en este acuerdo antes de poder continuar con la instalación.</translation>
+        <translation>Favor de leer el acuerdo de licenciamiento. Debes aceptar los términos contendios en este acuerdo antes de poder continuar con la instalación.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2055,7 +2055,7 @@ Please copy the installer to a local drive</source>
     <message>
         <location line="+2"/>
         <source>Please read the following license agreements. You must accept the terms contained in these agreements before continuing with the installation.</source>
-        <translation>Favor de leer los acuerdos de licenciamientos. Debe aceptar los términos contendios en estos acuerdos antes de poder continuar con la instalación.</translation>
+        <translation>Favor de leer los acuerdos de licenciamientos. Debes aceptar los términos contendios en estos acuerdos antes de poder continuar con la instalación.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2117,7 +2117,7 @@ Please copy the installer to a local drive</source>
     <message>
         <location line="+74"/>
         <source>This component will occupy approximately %1 on your hard disk drive.</source>
-        <translation>Este componente ocupara aporximadamente %1 en su disco duro.</translation>
+        <translation>Este componente ocupará aproximadamente %1 en su disco duro.</translation>
     </message>
     <message>
         <location line="+74"/>
@@ -2127,22 +2127,22 @@ Please copy the installer to a local drive</source>
     <message>
         <location line="+19"/>
         <source>Please select the components you want to update.</source>
-        <translation>Favor de seleccionar los componetes que desee actualizar.</translation>
+        <translation>Favor de seleccionar los componetes que deseas actualizar.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Please select the components you want to install.</source>
-        <translation>Favor de seleccionar los componetes que desee instalar.</translation>
+        <translation>Favor de seleccionar los componetes que deseas instalar.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Please select the components you want to uninstall.</source>
-        <translation>Favor de seleccionar los componetes que desee desinstalar.</translation>
+        <translation>Favor de seleccionar los componetes que deseas desinstalar.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select the components to install. Deselect installed components to uninstall them.</source>
-        <translation>Seleccione los componentes a instalar.Deseleccione componentes ya instalados para desinstalarlos.</translation>
+        <translation>Selecciona los componentes a instalar.Deselecciona componentes ya instalados para desinstalarlos.</translation>
     </message>
 </context>
 <context>
@@ -2150,12 +2150,12 @@ Please copy the installer to a local drive</source>
     <message>
         <location line="+124"/>
         <source>Installation Folder</source>
-        <translation>Carpeta de Instalacion</translation>
+        <translation>Carpeta de Instalación</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Please specify the folder where %1 will be installed.</source>
-        <translation>Favor de especificar la carpta donde %1 será isntalado.</translation>
+        <translation>Favor de especificar la carpta donde %1 será instalado.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2171,7 +2171,7 @@ Please copy the installer to a local drive</source>
     <message>
         <location line="+94"/>
         <source>The folder you selected already exists and contains an installation. Choose a different target for installation.</source>
-        <translation>La carpeta que acaba de seleccionar ya existe y contiene una instalación. Seleccione un destino diferente para la instalación.</translation>
+        <translation>La carpeta que acabas de seleccionar ya existe y contiene una instalación. Selecciona un destino diferente para la instalación.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2179,21 +2179,21 @@ Please copy the installer to a local drive</source>
 Note that it will be completely wiped on uninstallation of this application.
 It is not advisable to install into this folder as installation might fail.
 Do you want to continue?</source>
-        <translation>Usted ha seleccionado una carpeta existente, con contenido para la instalación. 
-Note que será borrada completamente  al desinstalar esta aplicación.
+        <translation>Has seleccionado una carpeta existente, con contenido para la instalación. 
+Nota que será borrada completamente al desinstalar esta aplicación.
 No es recomendable instalar en esta carpeta ya que puede fallar.
-¿Desea continuar?
+¿Deseas continuar?
 </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>You have selected an existing file or symlink, please choose a different target for installation.</source>
-        <translation>Usted ha seleccionado un archivo o symlink existente, favor de seleccionar un destino diferente para la instalación.</translation>
+        <translation>Has seleccionado un archivo o symlink existente, favor de seleccionar un destino diferente para la instalación.</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Select Installation Folder</source>
-        <translation>Seleccione la Carpeta de Instalación</translation>
+        <translation>Selecciona la Carpeta de Instalación</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -2208,7 +2208,7 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
     <message>
         <location line="+6"/>
         <source>The path or installation directory contains non ASCII characters. This is currently not supported! Please choose a different path or installation directory.</source>
-        <translation>La ruta o directorio de instalación contiene caracteres no ASCII. ¡Esto actualmente no está soportado! Favor de seleccioanr una ruta o directorio de instalación diferente.</translation>
+        <translation>La ruta o directorio de instalación contiene caracteres no ASCII. ¡Esto actualmente no está soportado! Favor de seleccionar una ruta o directorio de instalación diferente.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -2261,7 +2261,7 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
     <message>
         <location line="+1"/>
         <source>Select the Start Menu in which you would like to create the program&apos;s shortcuts. You can also enter a name to create a new folder.</source>
-        <translation>Seleccione el Menú de Inicio en el cual le gustaria crear los atajos del programa. También puede ingresar un nombre para crar una nueva carpeta.</translation>
+        <translation>Selecciona el Menú de Inicio en el cual te gustaría crear los atajos del programa. También puedes ingresar un nombre para crear una nueva carpeta.</translation>
     </message>
 </context>
 <context>
@@ -2279,7 +2279,7 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
     <message>
         <location line="+1"/>
         <source>Setup is now ready to begin removing %1 from your computer.&lt;br&gt;&lt;font color=&quot;red&quot;&gt;The program directory %2 will be deleted completely&lt;/font&gt;, including all content in that directory!</source>
-        <translation>La configuración está lista para empezar a eliminar %1 de su computadora. &lt;br&gt;&lt;font color=&quot;red&quot;&gt;¡El directorio del programa %2 será borrado completamente&lt;/font&gt;, incluyendo todo el contenido de ese directorio!</translation>
+        <translation>La configuración está lista para empezar a eliminar %1 de tu computadora. &lt;br&gt;&lt;font color=&quot;red&quot;&gt;¡El directorio del programa %2 será borrado completamente&lt;/font&gt;, incluyendo todo el contenido de ese directorio!</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -2294,7 +2294,7 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
     <message>
         <location line="+1"/>
         <source>Setup is now ready to begin updating your installation.</source>
-        <translation>La configuración está lista para comenzar la actualización de su instalación.</translation>
+        <translation>La configuración está lista para comenzar la actualización de tu instalación.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2309,7 +2309,7 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
     <message>
         <location line="+1"/>
         <source>Setup is now ready to begin installing %1 on your computer.</source>
-        <translation>La aplicación está lista para comenzar a instalar%1 en su computadora.</translation>
+        <translation>La aplicación está lista para comenzar a instalar%1 en tu computadora.</translation>
     </message>
     <message>
         <location line="+61"/>
@@ -2329,12 +2329,12 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
     <message>
         <location line="+9"/>
         <source>The volume you selected for installation seems to have sufficient space for installation, but there will be less than 1% of the volume&apos;s space available afterwards. %1</source>
-        <translation>El volumen que ha seleccionado para la instalación parece tener suficiente espacio para la instalación, pero tendrá menos de 1% del espacio del volumen disponible después. %1</translation>
+        <translation>El volumen que has seleccionado para la instalación parece tener suficiente espacio para la instalación, pero tendrá menos de 1% del espacio del volumen disponible después. %1</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The volume you selected for installation seems to have sufficient space for installation, but there will be less than 100 MB available afterwards. %1</source>
-        <translation>El volumen que ha seleccionado para la instalación parece tener suficiente espacio para la instalación, pero tendrá menos de 100 MBs disponibles después. %1</translation>
+        <translation>El volumen que has seleccionado para la instalación parece tener suficiente espacio para la instalación, pero tendrá menos de 100 MBs disponibles después. %1</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2349,7 +2349,7 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
     <message>
         <location line="+16"/>
         <source>Components about to be removed.</source>
-        <translation>Los componentes estan a punto de ser eliminados.</translation>
+        <translation>Los componentes están a punto de ser eliminados.</translation>
     </message>
 </context>
 <context>
@@ -2395,12 +2395,12 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
     <message>
         <location line="+7"/>
         <source>Click Done to exit the %1 Wizard.</source>
-        <translation>Presione Terminar par salir del Asistente de %1.</translation>
+        <translation>Presiona Finalizar par salir del Asistente de %1.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Click Finish to exit the %1 Wizard.</source>
-        <translation>Presione Terminar para salir del Asistente de %1.</translation>
+        <translation>Presiona Finalizar para salir del Asistente de %1.</translation>
     </message>
     <message>
         <location line="+43"/>
@@ -2457,7 +2457,7 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
         <location line="+52"/>
         <location line="+63"/>
         <source>Registering file types is only supported on Windows.</source>
-        <translation>El registrar tipos de archivos  solo está soportado en Windows.</translation>
+        <translation>El registro de tipos de archivos sólo está soportado en Windows.</translation>
     </message>
     <message>
         <location line="-51"/>
@@ -2481,11 +2481,11 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
 
 as root and then clicking OK.</source>
         <translation>No fue posible obtener autorización que es requerida para continuar con la instalación.
- Aborte la instalacion o bien use la solución alternativa corriendo
+ Aborta la instalacion o bien usa la solución alternativa corriendo
 
 %1
 
-como root y después haga click en OK.</translation>
+como root y después has click en OK.</translation>
     </message>
 </context>
 <context>
@@ -2493,7 +2493,7 @@ como root y después haga click en OK.</translation>
     <message>
         <location filename="../../libs/installer/remoteobject.h" line="+96"/>
         <source>Could not read all data after sending command: %1. Bytes expected: %2, Bytes received: %3. Error: %4</source>
-        <translation>No fue posible leer toda la información despues de enviar el comando %1. Bytes esperados: %2, Bytes recibidos: %3. Error %4</translation>
+        <translation>No fue posible leer toda la información después de enviar el comando %1. Bytes esperados: %2, Bytes recibidos: %3. Error %4</translation>
     </message>
 </context>
 <context>
@@ -2538,12 +2538,12 @@ Se presentó una excepción al cargar el componente de script &apos;%1&apos;. (%
     <message>
         <location filename="../../libs/installer/selfrestartoperation.cpp" line="+51"/>
         <source>Installer object needed in &apos;%1&apos; operation is empty.</source>
-        <translation>Objeto del instalador requerido en la operación &apos;%1&apos; está vacío.</translation>
+        <translation>El objeto del instalador requerido en la operación &apos;%1&apos; está vacío.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Self Restart: Only valid within updater or packagemanager mode.</source>
-        <translation>Auto Reinicio: Solo es válido dentro de modo actualizador o administrador de paquetes.</translation>
+        <translation>Auto Reinicio: Sólo es válido dentro de modo actualizador o administrador de paquetes.</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2592,7 +2592,7 @@ Se presentó una excepción al cargar el componente de script &apos;%1&apos;. (%
     <message>
         <location line="+11"/>
         <source>Cannot move source &apos;%1&apos; to target &apos;%2&apos;, because target exists and is not removable.</source>
-        <translation>No es  posible mover la fuente &apos;%1&apos; al destino &apos;%2&apos;, porque el destino ya existe y no se puede eliminar.</translation>
+        <translation>No es posible mover la fuente &apos;%1&apos; al destino &apos;%2&apos;, porque el destino ya existe y no se puede eliminar.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -2810,7 +2810,7 @@ Se presentó una excepción al cargar el componente de script &apos;%1&apos;. (%
     <message>
         <location line="+1"/>
         <source>This could be a problem with the server&apos;s configuration, or it could be someone trying to impersonate the server.</source>
-        <translation>Este podría ser un problema con la configuración del servidor, o bien podria ser que alguien este tratando de hacerse pasar por el servidor.</translation>
+        <translation>Este podría ser un problema con la configuración del servidor, o bien podria ser que alguien esté tratando de hacerse pasar por el servidor.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2828,7 +2828,7 @@ Se presentó una excepción al cargar el componente de script &apos;%1&apos;. (%
     <message>
         <location filename="../../libs/kdtools/kdupdaterpackagesinfo.cpp" line="+96"/>
         <source>%1 contains invalid content: %2</source>
-        <translation>%1 contiene contenido inválido: %2</translation>
+        <translation>%1 tiene contenido inválido: %2</translation>
     </message>
     <message>
         <location line="+166"/>
@@ -2856,7 +2856,7 @@ Se presentó una excepción al cargar el componente de script &apos;%1&apos;. (%
     <message>
         <location filename="../../libs/kdtools/kdupdatertask.cpp" line="+190"/>
         <source>%1 started</source>
-        <translation>%1 comenzado</translation>
+        <translation>%1 iniciado</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2979,7 +2979,7 @@ Se presentó una excepción al cargar el componente de script &apos;%1&apos;. (%
     <message>
         <location line="+61"/>
         <source>Could not backup file %1.</source>
-        <translation>No es posible respaldar el archivo%1.</translation>
+        <translation>No es posible respaldar el archivo %1.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -3107,7 +3107,7 @@ Se presentó una excepción al cargar el componente de script &apos;%1&apos;. (%
     <message>
         <location line="+11"/>
         <source>Could not restore backup file for %1: %2</source>
-        <translation>No fue posuble restaurar el archivo de respaldo para %1: %2</translation>
+        <translation>No fue posible restaurar el archivo de respaldo para %1: %2</translation>
     </message>
 </context>
 <context>
@@ -3168,7 +3168,7 @@ Se presentó una excepción al cargar el componente de script &apos;%1&apos;. (%
     <message>
         <location line="+7"/>
         <source>Root element %1 unexpected, should be &quot;Updates&quot;.</source>
-        <translation>El elmento raíz %1 no era esperado, debería ser &quot;Updates&quot;.</translation>
+        <translation>El elemento raíz %1 no era esperado, debería ser &quot;Updates&quot;.</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -3183,7 +3183,7 @@ Se presentó una excepción al cargar el componente de script &apos;%1&apos;. (%
     <message>
         <location line="+63"/>
         <source>PackageUpdate element without Name</source>
-        <translation>Elemento de PackageUpdate sin Name</translation>
+        <translation>Elemento de PackageUpdate sin Nombre</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -3235,7 +3235,7 @@ Se presentó una excepción al cargar el componente de script &apos;%1&apos;. (%
     <message>
         <location line="+1"/>
         <source>Another %1 instance is already running. Wait until it finishes, close it, or restart your system.</source>
-        <translation>Otra %1 instancia ya se encuentra en ejecución. Favor de esperar a que termine, cierrela o reinicie su sistema.</translation>
+        <translation>Otra %1 instancia ya se encuentra en ejecución. Favor de esperar a que termine, ciérrala o reinicia tu sistema.</translation>
     </message>
 </context>
 </TS>
