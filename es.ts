@@ -327,7 +327,7 @@
     <message>
         <location line="+18"/>
         <source>Write failed after %1 bytes: %2</source>
-        <translation>La escritura fallé después de %1 bytes: %2</translation>
+        <translation>La escritura falló después de %1 bytes: %2</translation>
     </message>
     <message>
         <location filename="../../libs/installer/fileutils.cpp" line="+132"/>
