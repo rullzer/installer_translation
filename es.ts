@@ -449,7 +449,7 @@
     <message>
         <location line="+1"/>
         <source>Your installation seems to be corrupted. Please consider re-installing from scratch.</source>
-        <translation>Su instalación parece estar corrompida. Favor de considerar una re-instalación completa.</translation>
+        <translation>Tu instalación parece estar corrompida. Favor de considerar una re-instalación completa.</translation>
     </message>
     <message>
         <location filename="../../libs/installer/utils.cpp" line="+404"/>
@@ -2117,7 +2117,7 @@ Please copy the installer to a local drive</source>
     <message>
         <location line="+74"/>
         <source>This component will occupy approximately %1 on your hard disk drive.</source>
-        <translation>Este componente ocupará aproximadamente %1 en su disco duro.</translation>
+        <translation>Este componente ocupará aproximadamente %1 en tu disco duro.</translation>
     </message>
     <message>
         <location line="+74"/>
@@ -2155,7 +2155,7 @@ Please copy the installer to a local drive</source>
     <message>
         <location line="+7"/>
         <source>Please specify the folder where %1 will be installed.</source>
-        <translation>Favor de especificar la carpta donde %1 será instalado.</translation>
+        <translation>Favor de especificar la carpeta donde %1 será instalado.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -2309,7 +2309,7 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
     <message>
         <location line="+1"/>
         <source>Setup is now ready to begin installing %1 on your computer.</source>
-        <translation>La aplicación está lista para comenzar a instalar%1 en tu computadora.</translation>
+        <translation>La aplicación está lista para comenzar a instalar% 1 en tu computadora.</translation>
     </message>
     <message>
         <location line="+61"/>
@@ -2339,7 +2339,7 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
     <message>
         <location line="+6"/>
         <source>Installation will use %1 of disk space.</source>
-        <translation>La instalacion usará %1 de espacio en disco.</translation>
+        <translation>La instalación usará %1 de espacio en disco.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -2481,7 +2481,7 @@ No es recomendable instalar en esta carpeta ya que puede fallar.
 
 as root and then clicking OK.</source>
         <translation>No fue posible obtener autorización que es requerida para continuar con la instalación.
- Aborta la instalacion o bien usa la solución alternativa corriendo
+ Aborta la instalación o bien usa la solución alternativa corriendo
 
 %1
 
